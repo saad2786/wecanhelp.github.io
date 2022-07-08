@@ -1,0 +1,82 @@
+img{ 
+  
+  border: 4px solid black;
+  border-radius: 5px;
+  width:32.5%;
+  margin-right:2px;
+  text-align: center;
+  
+}
+.container{
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom:1cm ;
+}
+body{
+    margin: 0px;
+}
+nav{
+    
+    margin-top: 0px;
+    height:45px;
+    background-color: black;
+    width: 100%;
+}
+.contact
+{
+    width:19px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+}
+a{
+    margin: 0px 1px 0px 1px;
+    color:aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    padding: 10px 7px 15px 7px;
+    text-decoration: none;
+}
+.navbar li{
+    float: left;
+    padding: 10px 0px 10px 0px;
+    list-style: none;
+}
+.navbar a:hover{
+    background-color: rgba(81, 78, 78, 0.607);
+}
+.contact:hover{
+    background-color: wheat;
+}
+footer{
+    background-color: rgb(40, 38, 38);
+    padding-bottom: 0cm;
+    width:100%;
+    height: 5cm;
+}
+.footer{
+    width:30px;
+    display: block;
+    margin: auto;
+    border: none;
+}
+.footer1{
+    display: block;
+    text-align: center;
+    margin-bottom: -2px;
+    border: none;
+    color: grey;
+    padding-top: 1cm;
+}
+.content{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(26, 36, 45);
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 15px;
+    margin-top: 1cm;
+    line-height: 30px;
+}
+.cheemz{
+    display: block;
+    text-align: center;
+}
